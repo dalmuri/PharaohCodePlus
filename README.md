@@ -35,10 +35,12 @@
    ![RollDice](https://github.com/dalmuri/PharaohCodePlus/assets/132140216/a0f14447-2d9a-4410-9363-04c3b92c99db)
 
 ## Class 구조
+- GameManager 등의 시스템 관리 class는 Singleton으로 구현하여 다른 script에서 쉽게 불러올 수 있음
+- 드래그 가능한 모든 객체는 IDraggableObject 인터페이스를 상속하여 DragManager에서 관리함
 - 연산자는 자식의 width와 hegiht에 따라 크기가 조정됨
 - 가장 하위의 child는 NumberOperand여야 계산 가능
-- 계산이 불가능한 경우(0으로 나눔, 결과가 정수가 아님, int 범위를 넘음, 숫자를 1개 이하로 사용 등) 계산 결과가 표시되지 않음
 - 계산이 가능한 경우 등호의 우항에 결과가 자동으로 표시됨
+- 계산이 불가능한 경우(0으로 나눔, 결과가 정수가 아님, int 범위를 넘음, 숫자를 1개 이하로 사용 등) 계산 결과가 표시되지 않음
 - 부모 연산자와 자식의 관계에 따라 괄호가 자동으로 표시됨
 - 아래 Class Diagram에서 관계성이 적은 변수와 method는 생략함
 ```mermaid
