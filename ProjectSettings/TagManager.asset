@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NumberSquare
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - HandArea
+  - CalculationArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CalculationOperator
+    uniqueID: 3712050213
+    locked: 0
+  - name: CalculationNumber
+    uniqueID: 2312078323
+    locked: 0
+  - name: NumberSquare
+    uniqueID: 723171011
+    locked: 0
+  - name: MostFront
+    uniqueID: 1803854895
+    locked: 0

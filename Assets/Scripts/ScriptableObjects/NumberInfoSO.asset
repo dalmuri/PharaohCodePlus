@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eee80a5701e3d694fac9fda8e4c5b053, type: 3}
+  m_Name: NumberInfoSO
+  m_EditorClassIdentifier: 
+  numberInfos:
+  - number: 0
+    squareColor: 4
+    point: 0
+  - number: 3
+    squareColor: 0
+    point: 1
+  - number: 4
+    squareColor: 0
+    point: 1
+  - number: 5
+    squareColor: 0
+    point: 1
+  - number: 6
+    squareColor: 0
+    point: 1
+  - number: 7
+    squareColor: 0
+    point: 1
+  - number: 8
+    squareColor: 0
+    point: 1
+  - number: 9
+    squareColor: 0
+    point: 1
+  - number: 10
+    squareColor: 0
+    point: 1
+  - number: 11
+    squareColor: 0
+    point: 1
+  - number: 12
+    squareColor: 0
+    point: 1
+  - number: 13
+    squareColor: 0
+    point: 1
+  - number: 14
+    squareColor: 0
+    point: 1
+  - number: 15
+    squareColor: 0
+    point: 1
+  - number: 16
+    squareColor: 0
+    point: 1
+  - number: 17
+    squareColor: 0
+    point: 2
+  - number: 18
+    squareColor: 0
+    point: 1
+  - number: 20
+    squareColor: 0
+    point: 1
+  - number: 21
+    squareColor: 0
+    point: 2
+  - number: 24
+    squareColor: 0
+    point: 1
+  - number: 30
+    squareColor: 0
+    point: 2
+  - number: 36
+    squareColor: 0
+    point: 2
+  - number: 40
+    squareColor: 0
+    point: 2
+  - number: 19
+    squareColor: 1
+    point: 3
+  - number: 22
+    squareColor: 1
+    point: 3
+  - number: 25
+    squareColor: 1
+    point: 4
+  - number: 27
+    squareColor: 1
+    point: 3
+  - number: 28
+    squareColor: 1
+    point: 3
+  - number: 32
+    squareColor: 1
+    point: 3
+  - number: 35
+    squareColor: 1
+    point: 3
+  - number: 42
+    squareColor: 1
+    point: 3
+  - number: 45
+    squareColor: 1
+    point: 4
+  - number: 48
+    squareColor: 1
+    point: 3
+  - number: 56
+    squareColor: 1
+    point: 3
+  - number: 60
+    squareColor: 1
+    point: 3
+  - number: 72
+    squareColor: 1
+    point: 3
+  - number: 23
+    squareColor: 2
+    point: 5
+  - number: 26
+    squareColor: 2
+    point: 5
+  - number: 33
+    squareColor: 2
+    point: 5
+  - number: 44
+    squareColor: 2
+    point: 6
+  - number: 50
+    squareColor: 2
+    point: 5
+  - number: 54
+    squareColor: 2
+    point: 5
+  - number: 63
+    squareColor: 2
+    point: 6
+  - number: 70
+    squareColor: 2
+    point: 5
+  - number: 80
+    squareColor: 2
+    point: 5
+  - number: 49
+    squareColor: 3
+    point: 7
+  - number: 64
+    squareColor: 3
+    point: 7
+  - number: 84
+    squareColor: 3
+    point: 7
+  - number: 90
+    squareColor: 3
+    point: 7
